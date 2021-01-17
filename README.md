@@ -7,7 +7,7 @@
 
 ### Requirements
 
-    *[Java 8] (https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk11-downloads-2133151.html)
+    *[Java 11] (https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk11-downloads-2133151.html)
     *[Maven] (https://maven.apache.org/download.cgi)
     *[Docker] (https://www.docker.com/products/docker-desktop)
     *[Docker Compose] (https://docs.docker.com/compose/install/)
